@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tour Guide App: Odessa</string>
+
+
+    <string name="category_cafes">Cafes and Restaurants</string>
+
+    <string name="category_hotel">Hotels, motels, hostels</string>
+
+    <string name="category_fam_attract">Famous Attractions</string>
+
+    <string name="category_museums">Museums</string>
+
+    <string name="category_theaters">Theaters</string>
+
+    <string name="category_catacombs">Catacombs</string>
+</resources>
