@@ -1,47 +1,54 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@color/tan_background"
-    android:orientation="vertical"
-    tools:context="com.s.liza.tourguideappodessa.MainActivity">
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/tan_background"
+        android:orientation="vertical"
+        tools:context="com.s.liza.tourguideappodessa.MainActivity">
 
 
-    <TextView
-        android:id="@+id/hotel"
-        style="@style/CategoryStyle"
-        android:background="@color/category_hotel"
-        android:text="@string/category_hotel" />
+        <TextView
+            android:id="@+id/hotel"
+            style="@style/CategoryStyle"
+            android:background="@color/category_hotel"
+            android:text="@string/category_hotel" />
 
-    <TextView
-        android:id="@+id/cafes"
-        style="@style/CategoryStyle"
-        android:background="@color/category_cafes"
-        android:text="@string/category_cafes" />
+        <TextView
+            android:id="@+id/cafes"
+            style="@style/CategoryStyle"
+            android:background="@color/category_cafes"
+            android:text="@string/category_cafes" />
 
-    <TextView
-        android:id="@+id/fam_attract"
-        style="@style/CategoryStyle"
-        android:background="@color/category_fam_attract"
-        android:text="@string/category_fam_attract" />
+        <TextView
+            android:id="@+id/fam_attract"
+            style="@style/CategoryStyle"
+            android:background="@color/category_fam_attract"
+            android:text="@string/category_fam_attract" />
 
-    <TextView
-        android:id="@+id/museums"
-        style="@style/CategoryStyle"
-        android:background="@color/category_museums"
-        android:text="@string/category_museums" />
+        <TextView
+            android:id="@+id/museums"
+            style="@style/CategoryStyle"
+            android:background="@color/category_museums"
+            android:text="@string/category_museums" />
 
-    <TextView
-        android:id="@+id/theaters"
-        style="@style/CategoryStyle"
-        android:background="@color/category_theaters"
-        android:text="@string/category_theaters" />
+        <TextView
+            android:id="@+id/theaters"
+            style="@style/CategoryStyle"
+            android:background="@color/category_theaters"
+            android:text="@string/category_theaters" />
 
-    <TextView
-        android:id="@+id/catacombs"
-        style="@style/CategoryStyle"
-        android:background="@color/category_catacombs"
-        android:text="@string/category_catacombs" />
+        <TextView
+            android:id="@+id/catacombs"
+            style="@style/CategoryStyle"
+            android:background="@color/category_catacombs"
+            android:text="@string/category_catacombs" />
 
-</LinearLayout>
+    </LinearLayout>
+</ScrollView>
