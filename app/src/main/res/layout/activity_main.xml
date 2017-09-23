@@ -18,7 +18,6 @@
             android:id="@+id/hotel"
             style="@style/CategoryStyle"
             android:background="@color/category_hotel"
-            android:onClick="openHotelsList"
             android:text="@string/category_hotel" />
 
         <TextView
