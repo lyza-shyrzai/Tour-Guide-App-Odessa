@@ -16,12 +16,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HotelActivity" />
-        <activity android:name=".CafesActivity" />
-        <activity android:name=".FamAttrActivity" />
-        <activity android:name=".MuseumsActivity" />
-        <activity android:name=".theatersActivity" />
-        <activity android:name=".CatacombsActivity"></activity>
+        <activity
+            android:name=".HotelActivity"
+            android:label="@string/category_hotel" />
+        <activity
+            android:name=".CafesActivity"
+            android:label="@string/category_cafes" />
+        <activity
+            android:name=".FamAttrActivity"
+            android:label="@string/category_fam_attract" />
+        <activity
+            android:name=".MuseumsActivity"
+            android:label="@string/category_museums" />
+        <activity
+            android:name=".theatersActivity"
+            android:label="@string/category_theaters" />
+        <activity
+            android:name=".CatacombsActivity"
+            android:label="@string/category_catacombs">
+
+        </activity>
     </application>
 
 </manifest>
