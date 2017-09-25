@@ -1,14 +1,14 @@
 package com.s.liza.tourguideappodessa;
 
 
-public class TextInfo {
+public class Info {
     private String mName;
     private String mDesc;
     private String mAddress;
     private String mWorkHours;
     private String mTel;
 
-    public TextInfo(String name, String desc, String address, String workHours, String tel) {
+    public Info(String name, String desc, String address, String workHours, String tel) {
         mName = name;
         mDesc = desc;
         mAddress = address;

@@ -8,6 +8,6 @@ public class CatacombsActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_catacombs);
+        setContentView(R.layout.loc_list);
     }
 }

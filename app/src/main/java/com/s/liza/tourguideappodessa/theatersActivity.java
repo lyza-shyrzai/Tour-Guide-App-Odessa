@@ -8,6 +8,6 @@ public class theatersActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_theaters);
+        setContentView(R.layout.loc_list);
     }
 }

@@ -8,6 +8,6 @@ public class CafesActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_cafes);
+        setContentView(R.layout.loc_list);
     }
 }
