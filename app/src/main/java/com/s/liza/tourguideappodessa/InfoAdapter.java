@@ -13,20 +13,21 @@ import java.util.List;
 public class InfoAdapter extends ArrayAdapter<Info> {
 
 
-    public InfoAdapter(Context context, int resources, List<Info> locationsList) {
-        super(context, 0, locationsList);
+    public InfoAdapter(Context context, List<Info> info) {
+        super(context, 0, info);
     }
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
-        final Info currentLocation = getItem(position);
         View listItemView = convertView;
 
         if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.list_item, parent, false);
         }
+
+        Info currentLocation = getItem(position);
 
         TextView nameLocationTextView = (TextView) listItemView.findViewById(R.id.nameTextView);
         nameLocationTextView.setText(currentLocation.getName());
@@ -40,6 +41,9 @@ public class InfoAdapter extends ArrayAdapter<Info> {
 
         TextView phoneLocationTextView = (TextView) listItemView.findViewById(R.id.phoneTextView);
         phoneLocationTextView.setText(currentLocation.getTel());
+
+        TextView siteLocationTextView = (TextView) listItemView.findViewById(R.id.siteTextView);
+        siteLocationTextView.setText(currentLocation.getSite());
 
         return listItemView;
     }
