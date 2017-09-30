@@ -7,13 +7,15 @@ public class Info {
     private String mAddress;
     private String mWorkHours;
     private String mTel;
+    private String mSite;
 
-    public Info(String name, String desc, String address, String workHours, String tel) {
+    public Info(String name, String desc, String address, String workHours, String tel, String site) {
         mName = name;
         mDesc = desc;
         mAddress = address;
         mWorkHours = workHours;
         mTel = tel;
+        mSite = site;
     }
 
     public String getName() {
@@ -34,5 +36,9 @@ public class Info {
 
     public String getTel() {
         return mTel;
+    }
+
+    public String getSite() {
+        return mSite;
     }
 }
