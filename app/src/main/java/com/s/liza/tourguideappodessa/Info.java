@@ -4,14 +4,14 @@ package com.s.liza.tourguideappodessa;
 public class Info {
     private static final int NO_IMAGE_PROVIDED = -1;
     private int mImageResourceId = NO_IMAGE_PROVIDED;
-    private String mName;
-    private String mDesc;
-    private String mAddress;
-    private String mWorkHours;
-    private String mTel;
-    private String mSite;
+    private int mName;
+    private int mDesc;
+    private int mAddress;
+    private int mWorkHours;
+    private int mTel;
+    private int mSite;
 
-    public Info(int imageResourceId, String name, String desc, String address, String workHours, String tel, String site) {
+    public Info(int imageResourceId, int name, int desc, int address, int workHours, int tel, int site) {
         mImageResourceId = imageResourceId;
         mName = name;
         mDesc = desc;
@@ -25,27 +25,27 @@ public class Info {
         return mImageResourceId;
     }
 
-    public String getName() {
+    public int getName() {
         return mName;
     }
 
-    public String getDesc() {
+    public int getDesc() {
         return mDesc;
     }
 
-    public String getAddress() {
+    public int getAddress() {
         return mAddress;
     }
 
-    public String getWorkHours() {
+    public int getWorkHours() {
         return mWorkHours;
     }
 
-    public String getTel() {
+    public int getTel() {
         return mTel;
     }
 
-    public String getSite() {
+    public int getSite() {
         return mSite;
     }
 }

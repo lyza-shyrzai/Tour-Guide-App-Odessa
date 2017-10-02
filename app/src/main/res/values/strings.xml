@@ -2,15 +2,59 @@
     <string name="app_name">Tour Guide App: Odessa</string>
 
 
-    <string name="category_cafes">Cafes and Restaurants</string>
+    <string name="category_cafes">Кафе и Рестораны</string>
 
-    <string name="category_hotel">Hotels, motels, hostels</string>
+    <string name="category_hotel">Отели, Мотели, Хостелв</string>
 
-    <string name="category_fam_attract">Famous Attractions</string>
+    <string name="category_fam_attract">Известные Достропримечательности</string>
 
-    <string name="category_museums">Museums</string>
+    <string name="category_museums">Музеи</string>
 
-    <string name="category_theaters">Theaters</string>
+    <string name="category_theaters">Театры</string>
 
-    <string name="category_catacombs">Catacombs</string>
+    <string name="category_catacombs">Катакомбы</string>
+
+    <!--Отели-->
+    <string name="one_hotel_name">Отель Vele Rosse</string>
+    <string name="one_hotel_desc">Отель Vele Rosse находится в 5 минутах ходьбы от песчаного пляжа на берегу Черного моря. К услугам гостей фитнес-центр, сауна и бильярд.</string>
+    <string name="one_hotel_addr">улица Гаршина, 3</string>
+    <string name="one_hotel_work">Круглосуточно, без выходных</string>
+    <string name="one_hotel_tel">+38(097) 500-00-50</string>
+    <string name="one_hotel_site">http://vele-rosse.com.ua/</string>
+
+    <string name="two_hotel_name">Хостел Многоборец</string>
+    <string name="two_hotel_desc">Хостел "Многоборец" расположен в городе Одесса, в 4,2 км от стадиона "Спартак". Расстояние от хостела "Многоборец" до аэропорта Одессы составляет 3 км, до ж/д вокзала - 6,1 км.</string>
+    <string name="two_hotel_addr">ул. Минская, 6</string>
+    <string name="two_hotel_work">Регистрация заезда: с 12:30 часов. Регистрация отъезда: до 12:00 часов.</string>
+    <string name="two_hotel_tel">067 510-15-04</string>
+    <string name="two_hotel_site">https://www.booking.com/hotel/ua/hostel-mnogoborets-f-klub.ru.html</string>
+
+    <string name="three_hotel_name">Отель Мирный Курорт</string>
+    <string name="three_hotel_desc">16-ти этажное здание отеля Мирный расположено в одном из курортных районов Одессы - на 9й станции Большого Фонтана, недалеко от моря (900 метров до ближайшего пляжа).</string>
+    <string name="three_hotel_addr">Фонтанская дорога 71А</string>
+    <string name="three_hotel_work">Круглосуточно, без выходных</string>
+    <string name="three_hotel_tel">+380 (48) 716-77-37</string>
+    <string name="three_hotel_site">http://ru.mirniy.in.ua/</string>
+
+    <string name="four_hotel_name">Хостел «Чемодан-2»</string>
+    <string name="four_hotel_desc">Хостел «Чемодан-2» расположен в Одессе, в 700 метрах от театра оперы и балета.</string>
+    <string name="four_hotel_addr">ул. Греческая, 50 кв 7</string>
+    <string name="four_hotel_work">Круглосуточно, без выходных</string>
+    <string name="four_hotel_tel">067 510-15-04</string>
+    <string name="four_hotel_site">https://www.booking.com/hotel/ua/hostel-chemodan-2-odessa.ru.html</string>
+
+    <string name="five_hotel_name">Отель "Курортный"</string>
+    <string name="five_hotel_desc">Обратите свое внимание на отель Курортный, который расположен в одном из престижных зеленых районов города Одессы – Аркадия!</string>
+    <string name="five_hotel_addr">пер. Курортный, 2</string>
+    <string name="five_hotel_work">Круглосуточно, без выходных</string>
+    <string name="five_hotel_tel">+38(048) 784-76-00</string>
+    <string name="five_hotel_site">http://www.inkurort.com/</string>
+
+    <string name="six_hotel_name">Centro Hostel Odessa</string>
+    <string name="six_hotel_desc">"Centro Hostel" находится на расстоянии 2,8 км от ж/д вокзала, в 8,3 км от аэропорта. В 700 м от хостела расположен Одесский оперный театр, оживленная Дерибасовская - в 7 минутах ходьбы.</string>
+    <string name="six_hotel_addr">ул. Гоголя, 9  </string>
+    <string name="six_hotel_work">Регистрация заезда: с 13:00 часов. Регистрация отъезда: до 12:00 часов.</string>
+    <string name="six_hotel_tel">+380685599619</string>
+    <string name="six_hotel_site">http://inhostel.org/</string>
+
 </resources>

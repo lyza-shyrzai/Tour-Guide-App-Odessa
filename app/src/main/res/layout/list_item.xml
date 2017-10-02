@@ -66,6 +66,7 @@
                 style="@style/locationAddressSchedulePricePhone"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:autoLink="web"
                 android:drawableLeft="@drawable/ic_site_black_24px"
                 android:text="" />
 
