@@ -6,6 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.List;
@@ -29,6 +30,10 @@ public class InfoAdapter extends ArrayAdapter<Info> {
 
         Info currentLocation = getItem(position);
 
+        ImageView imageView = (ImageView) listItemView.findViewById(R.id.photoImageView);
+        imageView.setImageResource(currentLocation.getImageResourceId());
+        imageView.setVisibility(View.VISIBLE);
+
         TextView nameLocationTextView = (TextView) listItemView.findViewById(R.id.nameTextView);
         nameLocationTextView.setText(currentLocation.getName());
 
@@ -38,6 +43,9 @@ public class InfoAdapter extends ArrayAdapter<Info> {
 
         TextView addressLocationTextView = (TextView) listItemView.findViewById(R.id.addressTextView);
         addressLocationTextView.setText(currentLocation.getAddress());
+
+        TextView workHoursLocationTextView = (TextView) listItemView.findViewById(R.id.workHoursTextView);
+        workHoursLocationTextView.setText(currentLocation.getWorkHours());
 
         TextView phoneLocationTextView = (TextView) listItemView.findViewById(R.id.phoneTextView);
         phoneLocationTextView.setText(currentLocation.getTel());

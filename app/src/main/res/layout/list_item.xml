@@ -14,12 +14,12 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-            <!--<ImageView
+            <ImageView
                 android:id="@+id/photoImageView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:adjustViewBounds="true"
-                android:scaleType="centerInside" />-->
+                android:scaleType="centerInside" />
 
             <TextView
                 android:id="@+id/nameTextView"
