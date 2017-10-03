@@ -57,4 +57,40 @@
     <string name="six_hotel_tel">+380685599619</string>
     <string name="six_hotel_site">http://inhostel.org/</string>
 
+    <!--Кафе-->
+    <string name="one_cafe_name">Bernardazzi</string>
+    <string name="one_cafe_desc">Добро пожаловать в ресторан "Бернардацци" - особый мир, в котором приятные сочетания вина и еды украшены живыми музыкальными этюдами. </string>
+    <string name="one_cafe_addr">ул. Бунина, 15</string>
+    <string name="one_cafe_work">Понедельник-Четверг с 12:00 до 00:00 Пятница-Суббота с 11:00 до 02:00 Воскресенье с 11:00 до 00:00</string>
+    <string name="one_cafe_tel">+380 (67) 000 25 11</string>
+    <string name="one_cafe_site">http://bernardazzi.com/</string>
+
+    <string name="two_cafe_name">Tavernetta</string>
+    <string name="two_cafe_desc">Провинциальный ресторан итальянской кухни, в котором готовят изысканные итальянские блюда и в буквальном смысле носят их на руках.</string>
+    <string name="two_cafe_addr">ул. Екатерининская, 45</string>
+    <string name="two_cafe_work">9:00 - 00:00</string>
+    <string name="two_cafe_tel">096 23-44-621</string>
+    <string name="two_cafe_site">http://www.tavernetta.ua/</string>
+
+    <string name="three_cafe_name">Стейкхаус. Мясо и вино</string>
+    <string name="three_cafe_desc">Ресторан «Стейкхаус. Мясо и вино», Одесса. Основан в 1998 году.</string>
+    <string name="three_cafe_addr">ул. Дерибасовская, 20 (угол Гаванной)</string>
+    <string name="three_cafe_work">Мы работаем с 11:00 до 2:00 часов</string>
+    <string name="three_cafe_tel">(0482) 34 87 82</string>
+    <string name="three_cafe_site">http://steak.od.ua/</string>
+
+    <string name="four_cafe_name">Fratelli</string>
+    <string name="four_cafe_desc">Fratelli – самое главное у нас в тарелке!</string>
+    <string name="four_cafe_addr">ул. Греческая 17</string>
+    <string name="four_cafe_work">С 12:00 до 23:45 СБ-ВС с 9:00 до 23:45</string>
+    <string name="four_cafe_tel">0487384848</string>
+    <string name="four_cafe_site">http://www.fratelli.ua/</string>
+
+    <string name="five_cafe_name">Компот</string>
+    <string name="five_cafe_desc">Сеть кафе, известная своим французским шармом и одесским гостеприимством</string>
+    <string name="five_cafe_addr">Пантелеймоновская, 70</string>
+    <string name="five_cafe_work">с 7:00 до 23:00</string>
+    <string name="five_cafe_tel">0482 345-145</string>
+    <string name="five_cafe_site">http://www.kompot.ua/</string>
+
 </resources>
