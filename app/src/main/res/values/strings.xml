@@ -87,10 +87,46 @@
     <string name="four_cafe_site">http://www.fratelli.ua/</string>
 
     <string name="five_cafe_name">Компот</string>
-    <string name="five_cafe_desc">Сеть кафе, известная своим французским шармом и одесским гостеприимством</string>
+    <string name="five_cafe_desc">Сеть кафе, известная своим французским шармом и одесским гостеприимством.</string>
     <string name="five_cafe_addr">Пантелеймоновская, 70</string>
     <string name="five_cafe_work">с 7:00 до 23:00</string>
     <string name="five_cafe_tel">0482 345-145</string>
     <string name="five_cafe_site">http://www.kompot.ua/</string>
+
+    <!--Достропримечательности-->
+    <string name="one_fam_name">Одесский театр оперы и балета</string>
+    <string name="one_fam_desc">Одесский национальный академический театр оперы и балета — первый театр в Одессе по времени постройки, значению и известности.</string>
+    <string name="one_fam_addr">пер. Чайковского, 1</string>
+    <string name="one_fam_work">с 11:00 до 19:30 (кроме Пн.)</string>
+    <string name="one_fam_tel">+38 (048) 780-15-09</string>
+    <string name="one_fam_site">http://www.opera.odessa.ua/</string>
+
+    <string name="two_fam_name">Памятник де Ришельё</string>
+    <string name="two_fam_desc">Памятник герцогу де Ришельё в Одессе — бронзовый монумент в полный рост, посвящённый Арману Эмманюэлю дю Плесси, герцогу де Ришельё, открыт в 1828 году. Первый памятник, установленный в Одессе.</string>
+    <string name="two_fam_addr">Приморский бульвар, 7</string>
+    <string name="two_fam_work">24 часа в сутки</string>
+    <string name="two_fam_tel">-</string>
+    <string name="two_fam_site">-</string>
+
+    <string name="three_fam_name">Памятник апельсину</string>
+    <string name="three_fam_desc">Па́мятник Апельси́ну, кото́рый спас Оде́ссу — установленный в Одессе бронзовый монумент, посвящённый историческому событию — доставке в феврале 1800 года 3 000 свежих греческих апельсинов из Одесского порта в Санкт-Петербург в подарок от одесситов императору Павлу I. Памятник открыт в 2004 году, первоначально находился на улице Ланжероновской. В 2007 году перенесен на бульвар Искусств (ныне бульвар Жванецкого).</string>
+    <string name="three_fam_addr">бульвар Жванецкого</string>
+    <string name="three_fam_work">24 часа в сутки</string>
+    <string name="three_fam_tel">-</string>
+    <string name="three_fam_site">-</string>
+
+    <string name="four_fam_name">Потёмкинская лестница</string>
+    <string name="four_fam_desc">Потёмкинская лестница — бульварная лестница, ведущая к морю в Одессе. Архитектурное сооружение в стиле классицизма является памятником архитектуры первой половины XIX века и одной из главных достопримечательностей города.</string>
+    <string name="four_fam_addr"> бульвар Приморский</string>
+    <string name="four_fam_work">24 часа в сутки</string>
+    <string name="four_fam_tel">-</string>
+    <string name="four_fam_site">-</string>
+
+    <string name="five_fam_name">Памятник основателям Одессы</string>
+    <string name="five_fam_desc">Па́мятник основа́телям Оде́ссы — памятник Екатерине II и её сподвижникам — де Рибасу, де Волану, Потемкину и Зубову. Расположен в Одессе на Екатерининской площади. Воздвигнут в 1900 году по проекту одесского архитектора Юрия Мелетьевича Дмитренко. Скульптор Михаил Петрович Попов, при участии скульпторов Бориса Васильевича Эдуардса, Леопольда Менционе, инженер А. А. Сикорский. В 1920 году демонтирован. Восстановлен в 2007 году.</string>
+    <string name="five_fam_addr">  пл. Екатерининская</string>
+    <string name="five_fam_work">24 часа в сутки</string>
+    <string name="five_fam_tel">-</string>
+    <string name="five_fam_site">-</string>
 
 </resources>
