@@ -159,5 +159,33 @@
     <string name="one_mus_tel">+38 (048)722-48-15</string>
     <string name="one_mus_site">http://www.oweamuseum.odessa.ua</string>
 
+    <string name="two_mus_name">Одесский литературный музей</string>
+    <string name="two_mus_desc">Литературная Одесса - это не только имена писателей, биографически или творчески связанные с городом, но и художественный образ, обогативший мировую культуру.</string>
+    <string name="two_mus_addr">ул, Ланжероновская, 2</string>
+    <string name="two_mus_work"> с 10:00 до 17:00, кроме понедельника.</string>
+    <string name="two_mus_tel">8 (048) 722-33-70 </string>
+    <string name="two_mus_site">http://museum-literature.odessa.ua/</string>
+
+    <string name="three_mus_name">Одесский археологический музей</string>
+    <string name="three_mus_desc">Одесский археологический музей Национальной академии наук Украины является старейшим музейным учреждением нашей страны. Год основания - 1825.</string>
+    <string name="three_mus_addr">ул.Ланжероновская, 4</string>
+    <string name="three_mus_work"> с 10:00 до 17:00, кроме понедельника.</string>
+    <string name="three_mus_tel">(048) 725-63-22</string>
+    <string name="three_mus_site">http://archaeology.odessa.ua/</string>
+
+    <string name="four_mus_name">Одесский художественный музей</string>
+    <string name="four_mus_desc">Здание, в котором расположен Одесский художественный музей было построено в период между 1824 и 1828 годами. Автор проекта не установлен.</string>
+    <string name="four_mus_addr">ул. Софиевская 5а</string>
+    <string name="four_mus_work">Пн, Ср-Вс 10:30-17:30, касса до 16:30</string>
+    <string name="four_mus_tel">+38 048 723 72 87</string>
+    <string name="four_mus_site">http://ofam.od.ua/</string>
+
+    <string name="five_mus_name">Мемориал героической обороны Одессы 411-й береговой батареи</string>
+    <string name="five_mus_desc">Мемориал героической обороны Одессы 411-й береговой батареи — мемориальный комплекс, посвящённый героической обороне Одессы во время Великой Отечественной войны. В состав мемориального комплекса входят музей, выставка военной техники под открытым небом, батарея береговой обороны, большой засаженный дубами парк.</string>
+    <string name="five_mus_addr">ул. Дача Ковалевского, 119А</string>
+    <string name="five_mus_work">24 часа в сутки</string>
+    <string name="five_mus_tel">0482 401 833</string>
+    <string name="five_mus_site">-</string>
+
 
 </resources>
