@@ -151,5 +151,13 @@
     <string name="three_cat_tel">+380934390139</string>
     <string name="three_cat_site">catacombs.od.ua</string>
 
+    <!--Музеи-->
+    <string name="one_mus_name">Одесский музей западного и восточного искусства</string>
+    <string name="one_mus_desc">Одесский музей западного и восточного искусства — один из крупнейших художественных музеев Украины, коллекция которого обладает рядом произведений высокой художественной и культурной ценности.</string>
+    <string name="one_mus_addr"> ул. Пушкинская, 9</string>
+    <string name="one_mus_work">с 10.00 до 17.00 (касса до 16.30) зимой,с 10.30. до 18.00 (касса до 17.30) летом. Выходной день - Среда.</string>
+    <string name="one_mus_tel">+38 (048)722-48-15</string>
+    <string name="one_mus_site">http://www.oweamuseum.odessa.ua</string>
+
 
 </resources>
