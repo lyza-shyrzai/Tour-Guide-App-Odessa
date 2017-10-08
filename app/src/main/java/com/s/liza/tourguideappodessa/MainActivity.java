@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setCustomOnClickListener(R.id.cafes, CafesActivity.class);
         setCustomOnClickListener(R.id.fam_attract, FamAttrActivity.class);
         setCustomOnClickListener(R.id.museums, MuseumsActivity.class);
-        setCustomOnClickListener(R.id.theaters, theatersActivity.class);
         setCustomOnClickListener(R.id.catacombs, CatacombsActivity.class);
     }
 

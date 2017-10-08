@@ -39,12 +39,6 @@
             android:text="@string/category_museums" />
 
         <TextView
-            android:id="@+id/theaters"
-            style="@style/CategoryStyle"
-            android:background="@color/category_theaters"
-            android:text="@string/category_theaters" />
-
-        <TextView
             android:id="@+id/catacombs"
             style="@style/CategoryStyle"
             android:background="@color/category_catacombs"

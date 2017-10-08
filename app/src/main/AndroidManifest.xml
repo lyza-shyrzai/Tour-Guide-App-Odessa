@@ -29,9 +29,6 @@
             android:name=".MuseumsActivity"
             android:label="@string/category_museums" />
         <activity
-            android:name=".theatersActivity"
-            android:label="@string/category_theaters" />
-        <activity
             android:name=".CatacombsActivity"
             android:label="@string/category_catacombs">
 
